@@ -1,0 +1,14 @@
+.header {
+    background-color: orange;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/022/776/816/large_2x/colorful-flower-field-with-warm-sunlight-and-blue-sky-nature-landscape-beautiful-environment-wallpaper-peaceful-spring-concept-background-illustration-by-ai-generated-free-image-free-photo.jpg");
+    background-size: cover;
+    color: #660066;
+    margin-bottom: 4.5rem;
+    padding: 4rem 1rem;
+    text-align: center;
+    font-family: 'uthmanic';
+}
+
+#card {
+    display: none;
+}
