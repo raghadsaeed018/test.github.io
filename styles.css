@@ -20,6 +20,10 @@
     direction: rtl;
 }
 
+.all h1 {
+    font-size: 30px;
+}
+
 .choices {
     margin: 2rem;
     font-size: 25px;
@@ -50,4 +54,8 @@
 
 .questions {
     font-family: "Ariel";
+}
+
+input {
+    margin-bottom: 2rem;
 }
